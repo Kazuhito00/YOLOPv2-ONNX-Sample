@@ -1,6 +1,6 @@
 # YOLOPv2-ONNX-Sample
 [YOLOPv2](https://github.com/CAIC-AD/YOLOPv2)のPythonでのONNX推論サンプルです。<br>
-ONNX変換自体を試したい方はColaboratoryで[Convert2ONNX.ipynb][Convert2ONNX.ipynb)を使用ください。<br>
+ONNX変換自体を試したい方はColaboratoryで[Convert2ONNX.ipynb](Convert2ONNX.ipynb)を使用ください。<br>
 
 https://github.com/Kazuhito00/YOLOPv2-ONNX-Sample/assets/37477845/ab214b79-4d08-4cc1-b6be-0f5f16501fe1
 
